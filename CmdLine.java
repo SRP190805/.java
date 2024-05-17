@@ -5,3 +5,6 @@
          System.out.println("args[" + i + "]: " +
                              args[i]);
 } }
+
+//java CommandLine this is a test 100 -1
+//run the above program on command-line using above line.
