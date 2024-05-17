@@ -1,8 +1,6 @@
 // Demonstrate static variables, methods, and blocks.
    class UseStatic {
-  
-Chapter 7: A Closer Look at Methods and Classes
-      static int a = 3;
+     static int a = 3;
      static int b;
      static void meth(int x) {
        System.out.println("x = " + x);
